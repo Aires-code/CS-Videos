@@ -1,0 +1,5 @@
+D:\CS\Video_1_tut\obj\Debug\net5.0\Video_1_tut.csprojAssemblyReference.cache
+D:\CS\Video_1_tut\obj\Debug\net5.0\Video_1_tut.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS\Video_1_tut\obj\Debug\net5.0\Video_1_tut.AssemblyInfoInputs.cache
+D:\CS\Video_1_tut\obj\Debug\net5.0\Video_1_tut.AssemblyInfo.cs
+D:\CS\Video_1_tut\obj\Debug\net5.0\Video_1_tut.csproj.CoreCompileInputs.cache

@@ -1,0 +1,13 @@
+D:\CS\Video_1_tut\bin\Debug\net452\Video_1_tut.exe.config
+D:\CS\Video_1_tut\bin\Debug\net452\Video_1_tut.exe
+D:\CS\Video_1_tut\bin\Debug\net452\Video_1_tut.pdb
+D:\CS\Video_1_tut\bin\Debug\net452\System.Drawing-dotnet-core.dll
+D:\CS\Video_1_tut\bin\Debug\net452\System.Drawing.Primitives.dll
+D:\CS\Video_1_tut\bin\Debug\net452\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CS\Video_1_tut\obj\Debug\net452\Video_1_tut.csprojAssemblyReference.cache
+D:\CS\Video_1_tut\obj\Debug\net452\Video_1_tut.AssemblyInfoInputs.cache
+D:\CS\Video_1_tut\obj\Debug\net452\Video_1_tut.AssemblyInfo.cs
+D:\CS\Video_1_tut\obj\Debug\net452\Video_1_tut.csproj.CoreCompileInputs.cache
+D:\CS\Video_1_tut\obj\Debug\net452\Video_1_tut.csproj.CopyComplete
+D:\CS\Video_1_tut\obj\Debug\net452\Video_1_tut.exe
+D:\CS\Video_1_tut\obj\Debug\net452\Video_1_tut.pdb
